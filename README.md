@@ -87,3 +87,7 @@ plt.show()
 ```
 
 # OUPUT
+![image](https://user-images.githubusercontent.com/98682825/174454953-380365bb-bdce-474b-a30d-b0f39fea1c2a.png)
+![image](https://user-images.githubusercontent.com/98682825/174454960-3f20f23a-ac5e-4e34-8fd9-e44a33345495.png)
+![image](https://user-images.githubusercontent.com/98682825/174454969-c905098e-047e-472f-af17-6441bf8066c4.png)
+
